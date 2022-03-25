@@ -1,0 +1,2 @@
+.
+-Dpybind11_DIR=/usr/local/share/cmake/pybind11 -DCATKIN_DEVEL_PREFIX=/Project/vscode_project/pypcd/devel -DCMAKE_INSTALL_PREFIX=/Project/vscode_project/pypcd/install -G Unix Makefiles

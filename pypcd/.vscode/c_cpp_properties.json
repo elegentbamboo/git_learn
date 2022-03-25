@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/melodic/include",
+                "/usr/include/eigen3",
+                "/usr/local/include/pcl-1.8",
+                "/usr/local/include/vtk-7.1",
+                "/usr/local/include/pybind11",
+                "/usr/local/include/opencv2",
+                "/usr/local/include/boost",
+                "/opt/ros/melodic/include/pcl_conversions",
+                "/usr/include/pcl-1.8/pcl",
+                "/usr/include/pybind11",
+                "/Project/vscode_project/pyrosmsg/src/pybind11/include/pybind11"
+
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "configurationProvider": "b2.catkin_tools"
+        }
+    ],
+    "version": 4
+}

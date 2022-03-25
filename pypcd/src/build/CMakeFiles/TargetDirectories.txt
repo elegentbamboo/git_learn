@@ -1,0 +1,5 @@
+/Project/vscode_project/pypcd/src/build/CMakeFiles/rebuild_cache.dir
+/Project/vscode_project/pypcd/src/build/CMakeFiles/edit_cache.dir
+/Project/vscode_project/pypcd/src/build/CMakeFiles/example.dir
+/Project/vscode_project/pypcd/src/build/pybind11/CMakeFiles/rebuild_cache.dir
+/Project/vscode_project/pypcd/src/build/pybind11/CMakeFiles/edit_cache.dir
