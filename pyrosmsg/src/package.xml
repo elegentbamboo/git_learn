@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pyrosmsg</name>
+  <version>0.0.0</version>
+  <description>The pyrosmsg package</description>
+
+  <maintainer email="dmaturan@cmu.edu">dmaturan</maintainer>
+
+  <license>BSD license</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <!--<depend>pybind11_module</depend>-->
+  <depend>pybind11_catkin</depend>
+  <depend>roscpp</depend>
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>visualization_msgs</depend>
+  <depend>cmake_modules</depend>
+
+
+
+</package>
